@@ -1,0 +1,7 @@
+.idea
+android/build
+.DS_Store
+node_modules
+.libs.lock
+.libs.tar.gz
+yarn-error.log
